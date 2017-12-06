@@ -1,0 +1,5 @@
+ https://github.com/eseguraca6/pyzemaxslac
+
+path on virtual machine: 
+
+/mnt/c/Users/esegu/Desktop/pyzemaxslac
