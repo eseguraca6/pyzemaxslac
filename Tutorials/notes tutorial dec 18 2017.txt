@@ -1,0 +1,8 @@
+Tutorial for dec 18,2017
+
+beam - ft 
+some size : 12 
+aperture : half the size of beam -> 6
+drift really far away ~ 10 m ~ infinity 
+
+This is related to fresnel reflection. 
