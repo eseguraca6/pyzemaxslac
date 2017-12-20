@@ -6,3 +6,7 @@ aperture : half the size of beam -> 6
 drift really far away ~ 10 m ~ infinity 
 
 This is related to fresnel reflection. 
+
+--- update for the new take on 12/20/2017
+
+res. settings: 2048x2048; 15x15
