@@ -1,0 +1,9 @@
+This is a read me for myself for future reference. 
+
+Below you have two situation: gaussian beam with a lens present, and without. The data without a folder represents the former. 
+
+You have to characterize the beam waist, as a function of z, w(z), as it goes through free space, and then see how the lens differs from the free space projection. 
+
+Moreover, you need to show the free space data from ZEMAX, is represented well with the analytical solution. 
+
+Ta-da!
